@@ -62,7 +62,7 @@ scipy==1.7.3
 
 *[05_matrix_factorization.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/05_matrix_factorization.ipynb) -* Matrix Factorization Movie Recommender
 
-*[Project-I-Hybrid-Recommender-System.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/06_Hybrid-Recommender-System-Project.ipynb) -* Hybrid Movie Recommender PROJECT
+*[06_Hybrid-Recommender-System-Project.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/06_Hybrid-Recommender-System-Project.ipynb) -* Hybrid Movie Recommender PROJECT
 
 ---
 
