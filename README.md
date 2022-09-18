@@ -12,13 +12,9 @@ Contains a project that is a hybrid method of the above methods.
 
 ![Untitled](/images/project.png)
 
----
-
 # Business Problem
 
 For the user whose ID is given, it is desired to make 10 movie recommendations using `item-based` and `user-based` recommender methods
-
----
 
 # Dataset Info
 
@@ -38,7 +34,6 @@ For the user whose ID is given, it is desired to make 10 movie recommendations u
 | rating | Rating given to the movie by the user |
 | timestamp | Review data |
 
----
 
 # Requirements
 
@@ -47,8 +42,6 @@ matplotlib==3.5.2
 pandas==1.4.3
 scipy==1.7.3
 ```
-
----
 
 # **Files**
 
@@ -63,8 +56,6 @@ scipy==1.7.3
 *[05_matrix_factorization.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/05_matrix_factorization.ipynb) -* Matrix Factorization Movie Recommender
 
 *[06_Hybrid-Recommender-System-Project.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/06_Hybrid-Recommender-System-Project.ipynb) -* Hybrid Movie Recommender PROJECT
-
----
 
 # Author
 
