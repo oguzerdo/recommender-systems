@@ -37,10 +37,12 @@ For the user whose ID is given, it is desired to make 10 movie recommendations u
 
 # Requirements
 
-```python
-matplotlib==3.5.2
-pandas==1.4.3
-scipy==1.7.3
+```
+mlxtend==0.21.0
+pandas==1.4.4
+scikit_learn==1.1.2
+scikit_surprise==1.1.2
+surprise==0.1
 ```
 
 # **Files**

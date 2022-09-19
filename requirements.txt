@@ -1,0 +1,5 @@
+mlxtend==0.21.0
+pandas==1.4.4
+scikit_learn==1.1.2
+scikit_surprise==1.1.2
+surprise==0.1
